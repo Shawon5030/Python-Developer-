@@ -22,3 +22,4 @@ my_dict = {"name": "Shawon", "age": 22}
 * **x = 10**: Assigns the integer 10 to the variable `x`.
 * **y = 5.5**: Assigns the float 5.5 to the variable `y`.
 * **name = "Shawon"**: A string value assigned to a variable.
+* **is\_active = True**: A boolean value.
