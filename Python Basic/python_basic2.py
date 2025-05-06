@@ -38,3 +38,4 @@ lines = [
     "fruits.append('orange')",
     "print(fruits)",
     "",
+    "7. Dictionaries",
