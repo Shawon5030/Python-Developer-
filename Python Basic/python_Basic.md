@@ -204,3 +204,4 @@ print("All true?", all([True, True, True]))
 try:
     with open("sample.txt", "w") as f:
         f.write("Hello file!\n")
+        f.write("Second line\n")
