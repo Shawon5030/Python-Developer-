@@ -197,3 +197,4 @@ print("All true?", all([True, True, True]))
 * **any() / all()**: Boolean evaluators.
 
 ---
+
