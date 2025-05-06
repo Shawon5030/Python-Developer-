@@ -40,3 +40,4 @@ These represent Python's most fundamental data types.
 print("Hello, World!")
 name = input("Enter your name: ")
 print("Welcome,", name)
+age = int(input("Enter your age: "))
