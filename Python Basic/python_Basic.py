@@ -24,3 +24,4 @@ print("Ends with n?", name.endswith("n"))
 
 # 21-30: Conditional Statements
 num = 7
+if num > 0:
