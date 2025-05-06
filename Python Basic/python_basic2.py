@@ -14,3 +14,4 @@ lines = [
     "quot = x / y    # Division",
     "",
     "3. Conditional Statements",
+    "if x > y:",
