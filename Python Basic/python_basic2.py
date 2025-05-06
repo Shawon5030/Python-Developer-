@@ -39,3 +39,4 @@ lines = [
     "print(fruits)",
     "",
     "7. Dictionaries",
+    "person = {'name': 'Shawon', 'age': 22}",
