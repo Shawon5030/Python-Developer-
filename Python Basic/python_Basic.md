@@ -95,3 +95,4 @@ while i < 5:
     i += 1
 ```
 
+* **for loop**: Iterates over a range of numbers.
