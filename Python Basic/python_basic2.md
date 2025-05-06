@@ -67,3 +67,4 @@ while i < 5:
 def greet(name):
     return f'Hello, {name}!'
 
+print(greet('Shawon'))
