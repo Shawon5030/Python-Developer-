@@ -46,3 +46,4 @@ while i < 5:
     i += 1
 
 # 41-50: Functions
+def greet(name):
