@@ -18,3 +18,4 @@ lines = [
     "    print('x is greater')",
     "else:",
     "    print('y is greater or equal')",
+    "",
