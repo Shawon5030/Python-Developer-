@@ -56,3 +56,4 @@ print("Ends with n?", name.endswith("n"))
 * **str.upper()/lower()**: Converts string to upper/lowercase.
 * **startswith()/endswith()**: Checks string beginning or end.
 
+Great for understanding user interaction and string manipulation.
