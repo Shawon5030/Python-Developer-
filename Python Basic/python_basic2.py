@@ -41,3 +41,4 @@ lines = [
     "7. Dictionaries",
     "person = {'name': 'Shawon', 'age': 22}",
     "print(person['name'])",
+    "",
