@@ -128,3 +128,4 @@ nums = [1, 2, 3, 4]
 nums.append(5)
 nums.remove(2)
 nums.insert(1, 99)
+print("List:", nums)
