@@ -34,3 +34,4 @@ lines = [
     "print(greet('Shawon'))",
     "",
     "6. Lists",
+    "fruits = ['apple', 'banana', 'cherry']",
