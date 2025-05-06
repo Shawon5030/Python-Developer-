@@ -70,3 +70,4 @@ print("Slice:", nums[1:3])
 
 # 61-70: Dictionary Usage
 person = {"name": "Alice", "age": 30}
+print("Name:", person["name"])
