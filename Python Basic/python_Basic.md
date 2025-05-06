@@ -201,3 +201,4 @@ print("All true?", all([True, True, True]))
 #### Lines 91-100: File Handling & Exception
 
 ```python
+try:
