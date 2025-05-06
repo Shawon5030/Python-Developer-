@@ -176,3 +176,4 @@ print("%s is %d years old." % (name, age))
 * **format()**: Older method.
 * **%s %d**: Even older C-style formatting.
 
+---
