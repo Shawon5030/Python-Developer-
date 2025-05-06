@@ -29,3 +29,4 @@ lines = [
     "    i += 1",
     "",
     "5. Functions",
+    "def greet(name):",
