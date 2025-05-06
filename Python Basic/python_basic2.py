@@ -2,3 +2,4 @@
 
 lines = [
     "1. Variables and Data Types",
+    "x = 10        # Integer",
