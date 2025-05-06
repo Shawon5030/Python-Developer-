@@ -39,3 +39,4 @@ This GitHub repository is my **personal digital notebook** and portfolio:
 - This helps me push consistent, real-time progress
 - Good for journaling, tracking growth, and habit building
 
+---
