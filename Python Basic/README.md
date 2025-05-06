@@ -13,3 +13,4 @@ Welcome to my programming journey! This repository is dedicated to all things Py
 **Languages**: Python, C/C++, Django, JavaScript (learning React)  
 **Learning Focus**:
 - AI & Machine Learning
+- Backend Development with Django
