@@ -24,3 +24,4 @@ Welcome to my programming journey! This repository is dedicated to all things Py
 
 This GitHub repository is my **personal digital notebook** and portfolio:
 
+- 💡 **Python Basics** (`python_basic.md`, `python_basic2.txt`)
