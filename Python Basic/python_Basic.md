@@ -166,3 +166,4 @@ print("Values:", list(person.values()))
 
 ```python
 name = "Shawon"
+age = 22
