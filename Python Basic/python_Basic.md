@@ -77,3 +77,4 @@ else:
     print("Minor")
 ```
 
+* **if, elif, else**: Python's conditional blocks.
