@@ -30,3 +30,4 @@ my_dict = {"name": "Shawon", "age": 22}
 * **my\_set**: An unordered collection of unique elements.
 * **my\_dict**: Key-value pair mapping, a dictionary.
 
+These represent Python's most fundamental data types.
