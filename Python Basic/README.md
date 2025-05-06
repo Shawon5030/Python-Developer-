@@ -26,3 +26,4 @@ This GitHub repository is my **personal digital notebook** and portfolio:
 
 - 💡 **Python Basics** (`python_basic.md`, `python_basic2.txt`)
 - 📄 **Daily Notes** (from YouTube, Phitron, and others)
+- 📚 **Codeforces Practice Solutions**
