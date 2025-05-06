@@ -135,3 +135,4 @@ print("Max:", max(nums))
 print("Min:", min(nums))
 print("Slice:", nums[1:3])
 ```
+
