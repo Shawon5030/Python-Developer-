@@ -14,3 +14,4 @@ my_dict = {"name": "Shawon", "age": 22}
 print("Hello, World!")
 name = input("Enter your name: ")
 print("Welcome,", name)
+age = int(input("Enter your age: "))
