@@ -174,3 +174,4 @@ print("%s is %d years old." % (name, age))
 
 * **f-strings** (Python 3.6+): Cleaner formatting.
 * **format()**: Older method.
+* **%s %d**: Even older C-style formatting.
