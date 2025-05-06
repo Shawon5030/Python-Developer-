@@ -42,3 +42,4 @@ lines = [
     "person = {'name': 'Shawon', 'age': 22}",
     "print(person['name'])",
     "",
+    "8. Classes and Objects",
