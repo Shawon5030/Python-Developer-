@@ -36,3 +36,4 @@ This GitHub repository is my **personal digital notebook** and portfolio:
 ## 🚀 Automation
 
 - Python scripts that auto-commit code line-by-line from my clipboard or written files
+- This helps me push consistent, real-time progress
