@@ -44,3 +44,4 @@ lines = [
     "",
     "8. Classes and Objects",
     "class Person:",
+    "    def __init__(self, name):",
