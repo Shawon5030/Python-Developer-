@@ -225,3 +225,4 @@ except Exception as e:
 
 ### Summary
 
+These 100 lines introduce every basic concept you need to understand to begin Python programming. From variables and input/output, to functions, lists, dictionaries, and files, you're now ready to start building small projects or move into intermediate Python with confidence.
