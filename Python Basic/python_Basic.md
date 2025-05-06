@@ -136,3 +136,4 @@ print("Min:", min(nums))
 print("Slice:", nums[1:3])
 ```
 
+* **append()**: Adds an item.
