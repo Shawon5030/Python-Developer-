@@ -114,3 +114,4 @@ Hi! I'm **Mahmudul Haque Shawon**, passionate about programming, Python, AI, and
 You can find me on:
 
 - 🌐 **GitHub**: [github.com/Shawon5030](https://github.com/Shawon5030)
+- 📘 **Facebook**: [facebook.com/mahmudul.haque.shaw.n](https://facebook.com/mahmudul.haque.shaw.n)
