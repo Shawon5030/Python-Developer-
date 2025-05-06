@@ -212,3 +212,4 @@ try:
 except FileNotFoundError:
     print("File not found!")
 except Exception as e:
+    print("Error:", e)
