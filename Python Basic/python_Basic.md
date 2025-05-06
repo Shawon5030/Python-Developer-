@@ -24,3 +24,4 @@ my_dict = {"name": "Shawon", "age": 22}
 * **name = "Shawon"**: A string value assigned to a variable.
 * **is\_active = True**: A boolean value.
 * **a, b, c = 1, 2, 3**: Assigns multiple variables at once.
+* **PI = 3.1416**: Constants can be written in uppercase.
