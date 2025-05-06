@@ -215,3 +215,4 @@ except Exception as e:
     print("Error:", e)
 ```
 
+* **with open()**: Safely opens and closes files.
