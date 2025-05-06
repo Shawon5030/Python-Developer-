@@ -3,7 +3,7 @@ import time
 import subprocess
 import os
 
-FILENAME = "F:\Python Info Github\Python Basic\python_Basic.md"
+FILENAME = "F:\Python Info Github\Python Basic\python_Basic2.py"
 
 # Step 1: Read clipboard content once
 clipboard_content = pyperclip.paste()
