@@ -89,3 +89,4 @@ squares = [x*x for x in range(5)]
 print("Squares:", squares)
 even = list(filter(lambda x: x % 2 == 0, range(10)))
 print("Even numbers:", even)
+double = list(map(lambda x: x * 2, range(5)))
