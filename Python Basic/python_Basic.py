@@ -12,3 +12,4 @@ my_dict = {"name": "Shawon", "age": 22}
 
 # 11-20: Basic Input and Output
 print("Hello, World!")
+name = input("Enter your name: ")
