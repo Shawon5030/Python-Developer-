@@ -24,3 +24,4 @@ is_active = True  # Boolean
 ```python
 sum = x + y       # Addition
 diff = x - y      # Subtraction
+prod = x * y      # Multiplication
