@@ -53,3 +53,4 @@ print("Ends with n?", name.endswith("n"))
 * **input()**: Takes string input from user.
 * **int(input())**: Converts input to integer.
 * **len()**: Returns the number of characters.
+* **str.upper()/lower()**: Converts string to upper/lowercase.
