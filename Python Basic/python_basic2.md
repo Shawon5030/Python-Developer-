@@ -76,3 +76,4 @@ print(greet('Shawon'))
 
 ```python
 fruits = ['apple', 'banana', 'cherry']
+fruits.append('orange')
