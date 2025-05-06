@@ -207,3 +207,4 @@ try:
         f.write("Second line\n")
 
     with open("sample.txt", "r") as f:
+        content = f.read()
