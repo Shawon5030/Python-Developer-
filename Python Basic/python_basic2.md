@@ -17,3 +17,4 @@ name = 'Shawon'   # String
 is_active = True  # Boolean
 ```
 
+---
