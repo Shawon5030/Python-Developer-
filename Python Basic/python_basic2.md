@@ -85,3 +85,4 @@ print(fruits)
 ### 7️⃣ Dictionaries
 
 ```python
+person = {'name': 'Shawon', 'age': 22}
