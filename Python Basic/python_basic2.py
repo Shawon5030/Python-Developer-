@@ -8,3 +8,4 @@ lines = [
     "is_active = True # Boolean",
     "",
     "2. Basic Operators",
+    "sum = x + y     # Addition",
