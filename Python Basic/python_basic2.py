@@ -7,3 +7,4 @@ lines = [
     "name = 'Shawon'  # String",
     "is_active = True # Boolean",
     "",
+    "2. Basic Operators",
