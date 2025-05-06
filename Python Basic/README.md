@@ -14,3 +14,4 @@ Welcome to my programming journey! This repository is dedicated to all things Py
 **Learning Focus**:
 - AI & Machine Learning
 - Backend Development with Django
+- Frontend (React, maybe Flutter)
