@@ -53,3 +53,4 @@ for i in range(5):
 #### ➤ While Loop
 
 ```python
+i = 0
