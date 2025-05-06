@@ -222,3 +222,4 @@ except Exception as e:
 * **FileNotFoundError**: Specific error for missing files.
 
 ---
+
