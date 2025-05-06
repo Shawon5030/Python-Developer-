@@ -37,3 +37,4 @@ else:
     print("Minor")
 
 # 31-40: Loops
+for i in range(5):
