@@ -26,3 +26,4 @@ my_dict = {"name": "Shawon", "age": 22}
 * **a, b, c = 1, 2, 3**: Assigns multiple variables at once.
 * **PI = 3.1416**: Constants can be written in uppercase.
 * **my\_list**: A mutable list that can store multiple values.
+* **my\_tuple**: An immutable version of a list.
