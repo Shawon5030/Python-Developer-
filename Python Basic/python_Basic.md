@@ -124,3 +124,4 @@ print("Sum:", add(3, 4))
 #### Lines 51-60: List Operations
 
 ```python
+nums = [1, 2, 3, 4]
