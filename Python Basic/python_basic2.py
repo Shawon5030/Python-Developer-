@@ -36,3 +36,4 @@ lines = [
     "6. Lists",
     "fruits = ['apple', 'banana', 'cherry']",
     "fruits.append('orange')",
+    "print(fruits)",
