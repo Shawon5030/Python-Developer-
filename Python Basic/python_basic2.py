@@ -53,3 +53,4 @@ lines = [
     "p.speak()",
 ]
 
+with open("python_basic2.txt", "w", encoding="utf-8") as file:
