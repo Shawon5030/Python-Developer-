@@ -38,3 +38,4 @@ These represent Python's most fundamental data types.
 
 ```python
 print("Hello, World!")
+name = input("Enter your name: ")
