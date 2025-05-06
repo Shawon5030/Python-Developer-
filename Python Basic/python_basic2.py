@@ -30,3 +30,4 @@ lines = [
     "",
     "5. Functions",
     "def greet(name):",
+    "    return f'Hello, {name}!'",
