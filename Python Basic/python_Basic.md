@@ -192,3 +192,4 @@ print("All true?", all([True, True, True]))
 ```
 
 * **List comprehensions**: Compact loop-based list creation.
+* **lambda**: Anonymous function.
