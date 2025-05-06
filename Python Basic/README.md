@@ -16,3 +16,4 @@ Welcome to my programming journey! This repository is dedicated to all things Py
 - Backend Development with Django
 - Frontend (React, maybe Flutter)
 - DevOps (future)
+- Competitive Programming
