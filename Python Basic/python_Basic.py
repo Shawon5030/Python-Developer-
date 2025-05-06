@@ -93,3 +93,4 @@ double = list(map(lambda x: x * 2, range(5)))
 print("Doubled:", double)
 print("Any true?", any([False, True, False]))
 print("All true?", all([True, True, True]))
+
