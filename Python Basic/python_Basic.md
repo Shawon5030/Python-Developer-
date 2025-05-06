@@ -194,3 +194,4 @@ print("All true?", all([True, True, True]))
 * **List comprehensions**: Compact loop-based list creation.
 * **lambda**: Anonymous function.
 * **filter/map**: Functional programming tools.
+* **any() / all()**: Boolean evaluators.
