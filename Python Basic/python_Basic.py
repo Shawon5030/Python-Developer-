@@ -22,3 +22,4 @@ print("Lowercase:", name.lower())
 print("Starts with S?", name.startswith("S"))
 print("Ends with n?", name.endswith("n"))
 
+# 21-30: Conditional Statements
