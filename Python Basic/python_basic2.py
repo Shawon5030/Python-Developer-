@@ -20,3 +20,4 @@ lines = [
     "    print('y is greater or equal')",
     "",
     "4. Loops",
+    "for i in range(5):",
