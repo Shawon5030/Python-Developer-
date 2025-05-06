@@ -72,3 +72,4 @@ else:
     print("Negative number")
 
 if age >= 18:
+    print("Adult")
