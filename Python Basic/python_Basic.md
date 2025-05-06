@@ -196,3 +196,4 @@ print("All true?", all([True, True, True]))
 * **filter/map**: Functional programming tools.
 * **any() / all()**: Boolean evaluators.
 
+---
