@@ -158,3 +158,4 @@ print("Values:", list(person.values()))
 
 * **Dictionaries** store data in key-value format.
 * **Access** values using keys.
+* **Looping** through dictionary using `.items()`.
