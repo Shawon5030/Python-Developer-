@@ -183,3 +183,4 @@ print("%s is %d years old." % (name, age))
 ```python
 squares = [x*x for x in range(5)]
 print("Squares:", squares)
+even = list(filter(lambda x: x % 2 == 0, range(10)))
