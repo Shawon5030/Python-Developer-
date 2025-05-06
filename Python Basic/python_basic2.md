@@ -101,3 +101,4 @@ class Person:
     def speak(self):
         print(f'My name is {self.name}')
 
+p = Person('Shawon')
