@@ -156,3 +156,4 @@ print("Keys:", list(person.keys()))
 print("Values:", list(person.values()))
 ```
 
+* **Dictionaries** store data in key-value format.
