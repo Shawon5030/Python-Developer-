@@ -182,3 +182,4 @@ print("%s is %d years old." % (name, age))
 
 ```python
 squares = [x*x for x in range(5)]
+print("Squares:", squares)
