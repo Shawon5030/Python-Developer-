@@ -57,3 +57,4 @@ print("Ends with n?", name.endswith("n"))
 * **startswith()/endswith()**: Checks string beginning or end.
 
 Great for understanding user interaction and string manipulation.
+
