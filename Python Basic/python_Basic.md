@@ -142,3 +142,4 @@ print("Slice:", nums[1:3])
 * **sorted()**, **sum()**, **max()**, **min()**: List utilities.
 * **slicing**: Accessing parts of the list.
 
+---
