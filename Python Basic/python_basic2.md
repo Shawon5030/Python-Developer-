@@ -75,3 +75,4 @@ print(greet('Shawon'))
 ### 6️⃣ Lists
 
 ```python
+fruits = ['apple', 'banana', 'cherry']
