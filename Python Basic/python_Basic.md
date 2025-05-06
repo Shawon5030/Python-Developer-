@@ -4,3 +4,4 @@ This document thoroughly explains the first 100 basic lines of Python code for b
 
 ---
 
+#### Lines 1-10: Variables and Data Types
