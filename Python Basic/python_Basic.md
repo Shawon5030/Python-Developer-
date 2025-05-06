@@ -51,3 +51,4 @@ print("Ends with n?", name.endswith("n"))
 
 * **print()**: Displays output.
 * **input()**: Takes string input from user.
+* **int(input())**: Converts input to integer.
