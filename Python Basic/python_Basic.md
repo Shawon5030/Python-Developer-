@@ -99,3 +99,4 @@ while i < 5:
 * **while loop**: Repeats as long as condition is true.
 * **range()**: Generates a sequence from 0 to 4.
 
+---
