@@ -57,3 +57,4 @@ with open("python_basic2.txt", "w", encoding="utf-8") as file:
     for line in lines:
         file.write(line + "\n")
 
+print("✅ File 'python_basic2.txt' created successfully.")
