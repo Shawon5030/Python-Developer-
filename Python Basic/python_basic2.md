@@ -14,3 +14,4 @@ This repository is a beginner-friendly guide to core Python concepts. It include
 x = 10            # Integer
 y = 3.14          # Float
 name = 'Shawon'   # String
+is_active = True  # Boolean
