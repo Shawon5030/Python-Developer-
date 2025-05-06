@@ -95,3 +95,4 @@ print("Any true?", any([False, True, False]))
 print("All true?", all([True, True, True]))
 
 # 91-100: File Handling & Exception
+try:
