@@ -28,3 +28,4 @@ lines = [
     "    print(i)",
     "    i += 1",
     "",
+    "5. Functions",
