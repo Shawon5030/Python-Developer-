@@ -143,3 +143,4 @@ print("Slice:", nums[1:3])
 * **slicing**: Accessing parts of the list.
 
 ---
+
