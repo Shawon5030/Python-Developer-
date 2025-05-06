@@ -206,3 +206,4 @@ try:
         f.write("Hello file!\n")
         f.write("Second line\n")
 
+    with open("sample.txt", "r") as f:
