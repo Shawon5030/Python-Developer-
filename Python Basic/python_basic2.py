@@ -33,3 +33,4 @@ lines = [
     "    return f'Hello, {name}!'",
     "print(greet('Shawon'))",
     "",
+    "6. Lists",
