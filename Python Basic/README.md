@@ -45,3 +45,4 @@ This GitHub repository is my **personal digital notebook** and portfolio:
 
 - 🌐 [My Website](https://example.com) — *coming soon*
 - 📹 [My YouTube Channel (Python Lover)](https://www.youtube.com/channel/UCtbnZffxwpC-yRDmVlf04LQ)
+- 📘 [My Facebook Programming Group](https://facebook.com/groups/your-group-link)
