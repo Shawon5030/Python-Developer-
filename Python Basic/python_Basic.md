@@ -219,3 +219,4 @@ except Exception as e:
 * **"w"**: Write mode.
 * **"r"**: Read mode.
 * **try/except**: Handles errors.
+* **FileNotFoundError**: Specific error for missing files.
