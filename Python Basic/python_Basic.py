@@ -45,3 +45,4 @@ while i < 5:
     print("While loop:", i)
     i += 1
 
+# 41-50: Functions
