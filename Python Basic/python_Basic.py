@@ -68,3 +68,4 @@ print("Max:", max(nums))
 print("Min:", min(nums))
 print("Slice:", nums[1:3])
 
+# 61-70: Dictionary Usage
