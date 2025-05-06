@@ -46,3 +46,4 @@ lines = [
     "class Person:",
     "    def __init__(self, name):",
     "        self.name = name",
+    "    def speak(self):",
