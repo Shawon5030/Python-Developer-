@@ -66,3 +66,4 @@ Great for understanding user interaction and string manipulation.
 num = 7
 if num > 0:
     print("Positive number")
+elif num == 0:
