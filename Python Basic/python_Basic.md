@@ -190,3 +190,4 @@ print("Doubled:", double)
 print("Any true?", any([False, True, False]))
 print("All true?", all([True, True, True]))
 ```
+
