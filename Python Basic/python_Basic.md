@@ -153,3 +153,4 @@ person["city"] = "Dhaka"
 for key, value in person.items():
     print(key, "=>", value)
 print("Keys:", list(person.keys()))
+print("Values:", list(person.values()))
