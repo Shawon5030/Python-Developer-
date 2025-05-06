@@ -76,3 +76,4 @@ if age >= 18:
 else:
     print("Minor")
 ```
+
