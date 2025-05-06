@@ -195,3 +195,4 @@ print("All true?", all([True, True, True]))
 * **lambda**: Anonymous function.
 * **filter/map**: Functional programming tools.
 * **any() / all()**: Boolean evaluators.
+
