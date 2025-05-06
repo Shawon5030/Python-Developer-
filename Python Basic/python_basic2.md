@@ -119,3 +119,4 @@ You can find me on:
 - 👨‍💻 **Codeforces**: [codeforces.com/profile/PythonicShawon](https://codeforces.com/profile/PythonicShawon)
 - 💻 **LeetCode**: [leetcode.com/u/haquemahmudul600](https://leetcode.com/u/haquemahmudul600)
 - 💼 **HackerRank**: [hackerrank.com/profile/haquemahmudul600](https://www.hackerrank.com/profile/haquemahmudul600)
+- ⏱ **Wakatime**: [wakatime.com/@Shawon](https://wakatime.com/@Shawon)
