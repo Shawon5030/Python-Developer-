@@ -24,3 +24,4 @@ lines = [
     "    print(i)",
     "",
     "i = 0",
+    "while i < 5:",
