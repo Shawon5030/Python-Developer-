@@ -191,3 +191,4 @@ print("Any true?", any([False, True, False]))
 print("All true?", all([True, True, True]))
 ```
 
+* **List comprehensions**: Compact loop-based list creation.
