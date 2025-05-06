@@ -55,3 +55,4 @@ print("Ends with n?", name.endswith("n"))
 * **len()**: Returns the number of characters.
 * **str.upper()/lower()**: Converts string to upper/lowercase.
 * **startswith()/endswith()**: Checks string beginning or end.
+
