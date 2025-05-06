@@ -78,3 +78,4 @@ print(greet('Shawon'))
 fruits = ['apple', 'banana', 'cherry']
 fruits.append('orange')
 print(fruits)
+```
