@@ -140,3 +140,4 @@ print("Slice:", nums[1:3])
 * **remove()**: Removes specific value.
 * **insert(index, value)**: Adds item at index.
 * **sorted()**, **sum()**, **max()**, **min()**: List utilities.
+* **slicing**: Accessing parts of the list.
