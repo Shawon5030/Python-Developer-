@@ -29,3 +29,4 @@ This GitHub repository is my **personal digital notebook** and portfolio:
 - 📚 **Codeforces Practice Solutions**
 - 🧠 **Machine Learning Concepts**
 - 📌 **Scripts** to auto-commit and log my clipboard or file-based learning
+- 📊 **Project Work** (Django, ML, API development, etc.)
