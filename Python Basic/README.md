@@ -12,3 +12,4 @@ Welcome to my programming journey! This repository is dedicated to all things Py
 **Background**: Diploma in Engineering (Computer Science)  
 **Languages**: Python, C/C++, Django, JavaScript (learning React)  
 **Learning Focus**:
+- AI & Machine Learning
