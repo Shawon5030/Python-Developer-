@@ -10,3 +10,4 @@ This document thoroughly explains the first 100 basic lines of Python code for b
 x = 10
 y = 5.5
 name = "Shawon"
+is_active = True
