@@ -105,3 +105,4 @@ try:
         print("File Content:\n", content)
 except FileNotFoundError:
     print("File not found!")
+except Exception as e:
