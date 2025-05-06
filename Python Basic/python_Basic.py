@@ -36,3 +36,4 @@ if age >= 18:
 else:
     print("Minor")
 
+# 31-40: Loops
