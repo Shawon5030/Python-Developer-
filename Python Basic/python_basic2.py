@@ -11,3 +11,4 @@ lines = [
     "sum = x + y     # Addition",
     "diff = x - y    # Subtraction",
     "prod = x * y    # Multiplication",
+    "quot = x / y    # Division",
