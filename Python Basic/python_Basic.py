@@ -58,3 +58,4 @@ print("Sum:", add(3, 4))
 
 # 51-60: List Operations
 nums = [1, 2, 3, 4]
+nums.append(5)
