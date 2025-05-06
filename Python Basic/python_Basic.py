@@ -86,3 +86,4 @@ print("%s is %d years old." % (name, age))
 
 # 81-90: List Comprehension & Built-ins
 squares = [x*x for x in range(5)]
+print("Squares:", squares)
