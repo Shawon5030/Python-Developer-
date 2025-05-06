@@ -4,3 +4,4 @@ lines = [
     "1. Variables and Data Types",
     "x = 10        # Integer",
     "y = 3.14      # Float",
+    "name = 'Shawon'  # String",
