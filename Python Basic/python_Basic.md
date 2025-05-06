@@ -217,3 +217,4 @@ except Exception as e:
 
 * **with open()**: Safely opens and closes files.
 * **"w"**: Write mode.
+* **"r"**: Read mode.
