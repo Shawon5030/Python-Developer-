@@ -71,3 +71,4 @@ elif num == 0:
 else:
     print("Negative number")
 
+if age >= 18:
