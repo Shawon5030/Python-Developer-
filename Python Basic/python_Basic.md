@@ -19,3 +19,4 @@ my_set = {1, 2, 3}
 my_dict = {"name": "Shawon", "age": 22}
 ```
 
+* **x = 10**: Assigns the integer 10 to the variable `x`.
