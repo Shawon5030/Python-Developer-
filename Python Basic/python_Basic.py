@@ -3,3 +3,4 @@ x = 10
 y = 5.5
 name = "Shawon"
 is_active = True
+a, b, c = 1, 2, 3
