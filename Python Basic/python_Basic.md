@@ -79,3 +79,4 @@ else:
 
 * **if, elif, else**: Python's conditional blocks.
 * **Indentation is required**.
+* Makes decisions based on conditions.
