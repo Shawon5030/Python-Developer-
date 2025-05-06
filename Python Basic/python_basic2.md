@@ -36,3 +36,4 @@ quot = x / y      # Division
 if x > y:
     print('x is greater')
 else:
+    print('y is greater or equal')
