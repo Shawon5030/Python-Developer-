@@ -6,3 +6,4 @@ This repository is a beginner-friendly guide to core Python concepts. It include
 
 ---
 
+## 📘 Topics Covered with Examples
