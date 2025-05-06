@@ -181,3 +181,4 @@ print("%s is %d years old." % (name, age))
 #### Lines 81-90: List Comprehension & Built-ins
 
 ```python
+squares = [x*x for x in range(5)]
