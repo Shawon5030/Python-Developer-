@@ -115,3 +115,4 @@ def add(a, b):
 print("Sum:", add(3, 4))
 ```
 
+* **def**: Declares a function.
