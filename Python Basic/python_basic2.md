@@ -11,3 +11,4 @@ This repository is a beginner-friendly guide to core Python concepts. It include
 ### 1️⃣ Variables and Data Types
 
 ```python
+x = 10            # Integer
