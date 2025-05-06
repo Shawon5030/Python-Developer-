@@ -22,3 +22,4 @@ Welcome to my programming journey! This repository is dedicated to all things Py
 
 ## 📂 Repository Purpose
 
+This GitHub repository is my **personal digital notebook** and portfolio:
