@@ -105,3 +105,4 @@ while i < 5:
 
 ```python
 def greet(name):
+    print("Hello,", name)
