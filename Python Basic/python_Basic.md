@@ -137,3 +137,4 @@ print("Slice:", nums[1:3])
 ```
 
 * **append()**: Adds an item.
+* **remove()**: Removes specific value.
