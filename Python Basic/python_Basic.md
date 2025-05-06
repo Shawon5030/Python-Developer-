@@ -221,3 +221,4 @@ except Exception as e:
 * **try/except**: Handles errors.
 * **FileNotFoundError**: Specific error for missing files.
 
+---
