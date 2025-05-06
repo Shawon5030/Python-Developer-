@@ -95,3 +95,4 @@ print(person['name'])
 
 ```python
 class Person:
+    def __init__(self, name):
