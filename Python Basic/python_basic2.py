@@ -19,3 +19,4 @@ lines = [
     "else:",
     "    print('y is greater or equal')",
     "",
+    "4. Loops",
