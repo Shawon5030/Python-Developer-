@@ -11,3 +11,4 @@ Welcome to my programming journey! This repository is dedicated to all things Py
 **Location**: Kushtia, Bangladesh  
 **Background**: Diploma in Engineering (Computer Science)  
 **Languages**: Python, C/C++, Django, JavaScript (learning React)  
+**Learning Focus**:
